@@ -1,14 +1,3 @@
-# create_readme.py
-"""
-Create a professional README.md for the Empathy-NN project.
-Save this file in the project root and run:
-    python create_readme.py
-"""
-
-README_CONTENT = """# Empathy Level Classification Using Neural Networks and NLP
-
-This project implements a text-based Empathy Classification System designed to evaluate the emotional quality of an agent's response in customer–agent conversations. The system predicts the empathy level using a five-class scale: **very_low**, **low**, **neutral**, **supportive**, and **high**.
-
 A neural network trained on TF-IDF text features performs the classification. The project includes a complete pipeline for data preprocessing, feature extraction, model training, evaluation, and command-line interaction.
 
 ---
