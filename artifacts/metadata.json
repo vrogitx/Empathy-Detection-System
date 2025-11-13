@@ -1,0 +1,9 @@
+{
+  "classes": [
+    "high",
+    "low",
+    "neutral",
+    "supportive",
+    "very_low"
+  ]
+}
